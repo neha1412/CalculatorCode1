@@ -9,6 +9,9 @@ public class calculatorTests {
 
         int sum = new calculatorCode().getSum(10, 40);
         Assert.assertEquals(sum, 50);
+
+
+
     }
 
     @Test
